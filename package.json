@@ -1,0 +1,23 @@
+{
+  "name": "andreacornejo.github.io",
+  "version": "1.0.0",
+  "description": "\"mi pagina web\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreacornejo/andreacornejo.github.io.git"
+  },
+  "author": "andrea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreacornejo/andreacornejo.github.io/issues"
+  },
+  "homepage": "https://github.com/andreacornejo/andreacornejo.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1"
+  }
+}
